@@ -1,6 +1,7 @@
 package ecp2.service;
 
 import ecp2.model.Figure;
+import lombok.NoArgsConstructor;
 import lombok.RequiredArgsConstructor;
 
 import java.util.ArrayList;
